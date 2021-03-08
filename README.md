@@ -1,4 +1,4 @@
-# GraphQL-ApolloClient-Template
+# graphQL-apolloclient-template
 
 ## Youtube Tutorial
 [YOUTUBE VIDEO](https://www.google.com)
